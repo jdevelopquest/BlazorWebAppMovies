@@ -1,0 +1,33 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+[Pp]ublish/
+TestResults/
+
+# IDE files
+.vs/
+*.user
+*.suo
+*.rsuser
+
+# Local configuration and secrets
+.env
+.env.*
+!*.example
+appsettings.*.local.json
+*.pfx
+*.p12
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# Operating system files
+.DS_Store
+Thumbs.db
