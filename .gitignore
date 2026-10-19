@@ -4,6 +4,7 @@
 [Aa]rtifacts/
 [Pp]ublish/
 TestResults/
+/net10.0/
 
 # IDE files
 .vs/
