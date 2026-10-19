@@ -1,3 +1,4 @@
+using BlazorWebAppMovies.Data;
 using BlazorWebAppMovies.Components;
 using Microsoft.EntityFrameworkCore;
 
