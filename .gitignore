@@ -23,6 +23,8 @@ appsettings.*.local.json
 *.log
 *.tmp
 *.cache
+*.db-shm
+*.db-wal
 
 # NuGet packages
 *.nupkg
